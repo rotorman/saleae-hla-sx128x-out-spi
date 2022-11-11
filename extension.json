@@ -1,0 +1,13 @@
+{
+  "name": "Semtech SX128x SPI out",
+  "apiVersion": "1.0.0",
+  "author": "Risto Kõiva",
+  "version": "0.0.1",
+  "description": "Semtech SX128x SPI OUT HLA",
+  "extensions": {
+    "SX128x SPI out": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "sx128x_out.sx128x_out"
+    }
+  }
+}
